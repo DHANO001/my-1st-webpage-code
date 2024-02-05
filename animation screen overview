@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dora1.css">
+    <title>DT website </title>
+</head>
+<style>
+    nav a:hover{
+        box-shadow: 0 0 50px rgba(0,0,255,0.7);
+        animation :glow is infinite;
+    }
+
+    nav a:active{
+        text-decoration:none;
+        box-shadow:0 0 50px rgba(0,0,255,0.7);
+    }
+</style>
+
+<body>
+    <div class="bubbles">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+        <img src="bubble.png">
+    </div>
+
+    <div class="container">
+        <div class="glass-container">
+            <nav class="navbar">
+                <div class="logo"><a href="#">06-02-2024🐻‍❄️</a></div>
+                <ul class="nav-links">
+                    <li class="nav-link"><a href="#">HELLO </a></li>
+                    
+                </ul>
+            </nav>
+            <div class="content">
+                <div class="main">
+                    <h2>Hey!👋</h2>
+                    <h3>It's DHANANJIT</h3>
+                    <p>
+                     Thanks for visit our web page!! only for you🍫🍫<br> For more information📩📩<br><br>CLICK HERE👇👇👇
+                    </p>
+                    <button onclick="redirectToAnotherPage()">Get Started</button>
+                    <p class="bottom-left">GUIDE: Debarshita Biswas</p>
+                
+                </div>
+                <div class="image-wrapper">
+                    <img src="atn.png" alt="cartoon">
+                    <div class="attrebute">   
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        function redirectToAnotherPage() {
+            window.location.href = 'dora_index.html';
+        }
+    </script>
+
+</body>
+
+</html>
