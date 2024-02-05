@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="dora2.css">
+    <title>DT website</title>
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="my.jpg">
+            <a href="#">DT</a>
+        </div>
+        <div class="nav-links">
+            <a href="dora_index.html">Home</a>
+            <a href="dora_work.html">Works</a>
+            <a href="dora_single.html">Hobbies & interests</a>
+            <a class="selected"  href="dora_blog.html">Blog</a>
+            <a href="dora_about.html">About</a>
+        </div>
+    </nav>
+
+
+    <h1 class="page-title">Blog</h1>
+
+    <div class="content">
+        <div class="post-list">
+            <div class="post-item">
+                <h3>Codeacademy Bigenners Best Platform</h3>
+                <div class="info">
+                    <h5>6 Jan 2024</h5>
+                    <h5>|</h5>
+                    <h5>code , skills</h5>
+                </div>
+                <p>You tube is the free best coding practice and learning platform here several languages are included for perfect understanding </p><br>
+                <p>My favourite channel:CodewithHarry,Apna College,LearnCoding etc
+                </p>
+
+                <div class="buttons">
+                    <i class='bx bx-share'></i>
+                    <i class='bx bx-link-alt'></i>
+                    <i class='bx bx-copy'></i>
+                    <i class='bx bx-bookmark-plus'></i> 
+                    <button>Read More</button>
+                </div>
+
+            </div>
+            <div class="post-item">
+                <h3>All About Circuits</h3>
+                <div class="info">
+                    <h5>5 Jan 2024</h5>
+                    <h5>|</h5>
+                    <h5>Circuit,EE,EEE,ECE</h5>
+                </div>
+                <p>
+                    Best community website is:*EEWeb *Power Electronics News *CIrcuit Cellar
+                </p>
+                <div class="buttons">
+                    <i class='bx bx-share'></i>
+                    <i class='bx bx-link-alt'></i>
+                    <i class='bx bx-copy'></i>
+                    <i class='bx bx-bookmark-plus'></i>
+                    <button>Read More</button>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <h3>Cyber Networking</h3>
+                <div class="info">
+                    <h5>01 Jan 2024</h5>
+                    <h5>|</h5>
+                    <h5>Protection,Networking</h5>
+                </div>
+                <p>
+                    Is an most interesting and complicated field , in my experience ill try 1st to crack WIFI password with using AIRCRACK-NG ;<br>
+                    Best website free learning source : Krebs on Security,,CISOMAG etc. as a article best website "PDF DRIVE"
+                </p>
+                <div class="buttons">
+                    <i class='bx bx-share'></i>
+                    <i class='bx bx-link-alt'></i>
+                    <i class='bx bx-copy'></i>
+                    <i class='bx bx-bookmark-plus'></i>
+                    <button>Read More</button>
+                </div>
+            </div>
+
+            <div class="post-item">
+                <h3>Graphic Design,UI,UX</h3>
+                <div class="info">
+                    <h5>3 Jan 2023</h5>
+                    <h5>|</h5>
+                    <h5>Design</h5>
+                </div>
+                <p>
+                    As a bigenner need free source designer tools than use GIMP,inkscape.. need basic best conceipts, see youtube tutorial 
+                </p>
+                <div class="buttons">
+                    <i class='bx bx-share'></i>
+                    <i class='bx bx-link-alt'></i>
+                    <i class='bx bx-copy'></i>
+                    <i class='bx bx-bookmark-plus'></i>
+                    <button>Read More</button>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+    <footer>
+        <div class="socials">
+            <a href="https://www.facebook.com/Holdonbrack/"><i class='bx bxl-facebook-square'></i></a> 
+             <a href="https://github.com/DHANO001"> <i class='bx bxl-github'></i></a>
+            <a href="https://www.linkedin.com/in/dhananjit-tripura-4a6b80253/"><i class='bx bxl-linkedin-square'></i></a> 
+         </div>
+
+        <p>No copyright</p>
+    </footer>
+
+
+</body>
+
+</html>
