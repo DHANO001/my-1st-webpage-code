@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="dora2.css">
+    <title>DT Website</title>
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="my.jpg">
+            <a href="#">DT</a>
+        </div>
+        <div class="nav-links">
+            <a href="dora_index.html">Home</a>
+            <a href="dora_work.html">Works</a>
+            <a  class="selected" href="dora_single.html">Hobbies & interests</a>
+            <a href="dora_blog.html">Blog</a>
+            <a href="dora_about.html">About</a>
+        </div>
+        </div>
+    </nav>
+
+    <h1 class="page-title">Acting🎥</h1>
+
+
+    <div class="content">
+        <div class="work-info">
+            <div class="year-badge">2018</div>
+            <div class="category">
+                <p></p>
+            </div>
+        </div>
+
+        <p>Acting is the art of portraying characters and emotions,🥀 bringing stories to life on stage or screen. It involves empathy, 
+            expression, and skill to convey a range of emotions convincingly.Acting is a multifaceted art form, a transformative experience where individuals embody characters, bringing stories to fruition. 🌺Beyond mere recitation of lines, actors delve into the psyche of their roles, expressing a spectrum of emotions with authenticity. They master the nuances of body language, 🌻facial expressions, and voice modulation to create a compelling narrative. It's a craft that demands both technical prowess and an emotional connection, requiring vulnerability and adaptability. Actors serve as conduits for storytelling, connecting audiences to the essence of human experiences. In the realm of creativity, 🍊acting stands as a profound exploration of empathy, imagination, 🌼
+            and the human condition.</p>
+    </div>
+
+
+    <footer>
+        <div class="socials">
+            <a href="https://www.facebook.com/Holdonbrack/"><i class='bx bxl-facebook-square'></i></a> 
+             <a href="https://github.com/DHANO001"> <i class='bx bxl-github'></i></a>
+            <a href="https://www.linkedin.com/in/dhananjit-tripura-4a6b80253/"><i class='bx bxl-linkedin-square'></i></a> 
+         </div>
+        <p>No Copyright</p>
+    </footer>
+
+
+</body>
+
+</html>
