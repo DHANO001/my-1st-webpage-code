@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="dora2.css">
+    <title>DT website</title>
+</head>
+
+<body>
+
+    <nav>
+
+        <div class="logo">
+            <img src="my.jpg">
+            <a href="#">DT</a>
+        </div>
+        <div class="nav-links">
+            <a class="selected" href="dora_index.html">Home</a>
+            <a href="dora_work.html">Works</a>
+            <a href="dora_single.html">Hobbies & interests</a>
+            <a href="dora_blog.html">Blog</a>
+            <a href="dora_about.html">About</a>
+        </div>
+        </div>
+    </nav>
+
+    <div class="main">
+        <div class="info">
+            <h1>Hello, I'm Dhananjit Tripura<br>Welcome!! </h1>
+            <p></p>
+            <button onclick="redirectToAnotherPage()">View resume</button>
+        </div>
+        <img src="k.jpg">
+    </div>
+
+    <div class="recent">
+        <div class="header">
+            <h4>Recent Posts</h4>
+            <a href="dora_blog.html">View all</a>
+        </div>
+        <div class="posts">
+            <div class="post-item">
+                <h3>Codeacademy Bigenners Best Platform</h3>
+                <div class="info">
+                    <h5>6 Jan 2024</h5>
+                    <h5>|</h5>
+                    <h5>code , skills</h5>
+                </div>
+                <p>You tube is the free best coding practice and learning platform here several languages are included for perfect understanding </p><br>
+                <p>My favourite channel:CodewithHarry,Apna College,LearnCoding etc
+                </p>
+            </div>
+            <div class="post-item">
+                <h3>All About Circuits</h3>
+                <div class="info">
+                    <h5>5 Jan 2024</h5>
+                    <h5>|</h5>
+                    <h5>Circuit,EE,EEE,ECE</h5>
+                </div>
+                <p>
+                    Best community website is:*EEWeb *Power Electronics News *CIrcuit Cellar
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="separator">
+        <h4>Favourite Features🐶</h4>
+    </div>
+
+    <div class="featured">
+        <div class="item">
+            <img src="Designer.png">
+            <div class="details">
+                <h3>DORAEMON</h3>
+                <div class="item-info">
+                    <div class="year-badge">April 1,2008</div>
+                    <h4>Anime🐼</h4>
+                </div>
+                <p>"Doraemon" characters include Nobita, Doraemon, Gian, Suneo, and Shizuka. The show, with its futuristic gadgets, 
+                    blends humor and life lessons, creating a beloved and timeless anime for all audiences.</p>
+                    <audio controls>
+                        <source src="d bgm.mp3" type="audio/mp3">
+            </div>
+        </div>
+        <div class="item">
+            <img src="ms-dhoni.jpg">
+            <div class="details">
+                <h3>MS Dhoni/Mahi Bhai</h3>
+                <div class="item-info">
+                    <div class="year-badge"> April 2, 2011</div>
+                    <h4>Cricket🏏</h4>
+                </div>
+                <p>M.S. Dhoni led the Indian cricket team to victory in the ICC Cricket World Cup in 2011. India won the tournament on April 2, 2011, defeating 
+                    Sri Lanka in the final held at Wankhede Stadium in Mumbai, India.</p>
+                    <audio controls>
+                        <source src="dhoni music.mp3" type="audio/mp3">
+            </div>
+        </div>
+        <div class="item">
+            <img src="srk.jpg">
+            <div class="details">
+                <h3>Sharukh Khan</h3>
+                <div class="item-info">
+                    <div class="year-badge">2010</div>
+                    <h4>Bollywood Actor😎</h4>
+                </div>
+                <p>Shah Rukh Khan, also known as the "King of Bollywood," is an acclaimed Indian actor and film producer. Renowned for his charisma and versatility, 
+                    he has left an indelible mark on global cinema</p>
+                    <audio controls>
+                        <source src="joome jo pathan.mp3" type="audio/mp3">
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="socials">
+           <a href="https://www.facebook.com/Holdonbrack/"><i class='bx bxl-facebook-square'></i></a> 
+            <a href="https://github.com/DHANO001"> <i class='bx bxl-github'></i></a>
+           <a href="https://www.linkedin.com/in/dhananjit-tripura-4a6b80253/"><i class='bx bxl-linkedin-square'></i></a> 
+        </div>
+        <script>
+            function redirectToAnotherPage() {
+                window.location.href = 'resume.html';
+            }
+        </script>
+        <p>No copyright</p>
+    </footer>
+
+</body>
+
+</html>
