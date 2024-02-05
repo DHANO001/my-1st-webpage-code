@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="dora2.css">
+    <title>DT website</title>
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="my.jpg">
+            <a href="#">DT</a>
+        </div>
+        <div class="nav-links">
+            <a href="dora_index.html">Home</a>
+            <a href="dora_work.html">Works</a>
+            <a href="dora_single.html">Hobbies & interests</a>
+            <a href="dora_blog.html">Blog</a>
+            <a class="selected" href="dora_about.html">About</a>
+        </div>
+    </nav>
+
+    <h1 class="page-title">About</h1>
+
+    <div class="content">
+        <div class="container">
+            <img src="k.jpg">
+            <div class="about">
+                <h2>I'm Dhananjit Tripura</h2>
+                <p>
+                    Hello! I'm Dhananjit Tripura, A passionate B,Tech student with a keen interest in programming .I thrive on solving complex problems and love turning ideas into reality through technology.
+                    <br>
+                    <h1>Skills</h1>
+                    <P>*Programming language(python)<br>
+                     *Technologies:AI,Cyber security,Databasa Management,Circuit analysis<br>
+                    </P>
+                    <h1>Projects</h1>
+                    <p>**[Free energy generator]<br>
+                      **[Fullwave Bridge Rectifier]<br>
+                      **[Coding Several Projects]<br>
+                      <br>
+                      <p>Happy Coding</p>
+                    </p>
+
+
+                </p>
+                <p class="email">Contact Me : dhananjittripz001@gmail.com</p>
+            </div>
+        </div><br>
+        <video width="50%" controls>
+            <source src="intro.mp4" type="video/mp4">
+
+    </div>
+
+    <footer>
+        <div class="socials">
+            <a href="https://www.facebook.com/Holdonbrack/"><i class='bx bxl-facebook-square'></i></a> 
+             <a href="https://github.com/DHANO001"> <i class='bx bxl-github'></i></a>
+            <a href="https://www.linkedin.com/in/dhananjit-tripura-4a6b80253/"><i class='bx bxl-linkedin-square'></i></a> 
+         </div>
+        <p>No copyright</p>
+    </footer>
+
+</body>
+
+</html>
