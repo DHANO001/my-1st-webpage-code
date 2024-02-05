@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="dora2.css">
+    <title>DT Website</title>
+</head>
+
+<body>
+
+    <nav>
+        <div class="logo">
+            <img src="my.jpg">
+            <a href="#">DT</a>
+        </div>
+        <div class="nav-links">
+            <a href="dora_index.html">Home</a>
+            <a class="selected" href="dora_work.html">Works</a>
+            <a href="dora_single.html">Hobbies & interests</a>
+            <a href="dora_blog.html">Blog</a>
+            <a href="dora_about.html">About</a>
+        </div>
+    </nav>
+
+    <h1 class="page-title">Works</h1>
+
+    <div class="content">
+        <div class="works-list">
+            <div class="item">
+                <img src="power system.png">
+                <div class="details">
+                    <h3>Power Systems</h3>
+                    <div class="item-info">
+                        <div class="year-badge">2023</div>
+                        <h4>Electrical Circuit</h4>
+                    </div>
+                    <p>
+                        Power systems manage the generation, transmission, and distribution of electrical energy. Comprising generators, transformers, and grids, they ensure a reliable supply of electricity for various applications, shaping modern infrastructure.
+                    </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="editing.webp">
+                <div class="details">
+                    <h3>Editing</h3>
+                    <div class="item-info">
+                        <div class="year-badge">2018</div>
+                        <h4>Editor</h4>
+                    </div>
+                    <p>Editing refines content, ensuring clarity and coherence. It involves trimming, rearranging, and enhancing text or multimedia to convey a message effectively. A crucial step in the creative process across various mediums.</p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="ui.png">
+                <div class="details">
+                    <h3>UI Design</h3>
+                    <div class="item-info">
+                        <div class="year-badge">2021</div>
+                        <h4>Designer</h4>
+                    </div>
+                    <p>UI design, or User Interface design, focuses on creating visually appealing and user-friendly interfaces for digital products. It involves crafting layouts, graphics, and interactions to enhance the overall user experience.</p>
+                </div>
+            </div>  
+        </div>
+    </div>
+
+    <footer>
+        <div class="socials">
+            <a href="https://www.facebook.com/Holdonbrack/"><i class='bx bxl-facebook-square'></i></a> 
+             <a href="https://github.com/DHANO001"> <i class='bx bxl-github'></i></a>
+            <a href="https://www.linkedin.com/in/dhananjit-tripura-4a6b80253/"><i class='bx bxl-linkedin-square'></i></a> 
+         </div>
+        <p>No copyright</p>
+    </footer>
+
+
+</body>
+
+</html>
